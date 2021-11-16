@@ -1,0 +1,4 @@
+com\gankova\service\ArticleService.class
+com\gankova\model\Article.class
+com\gankova\converter\ArticleConverter.class
+com\gankova\Main.class
